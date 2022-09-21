@@ -1,4 +1,4 @@
-module github.com/AhmetSBulbul/golang-api-playground
+module github.com/AhmetSBulbul/go-new-project
 
 go 1.19
 
